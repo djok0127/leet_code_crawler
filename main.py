@@ -57,5 +57,4 @@ async def on_message(message):
     #     await message.channel.send(get_link()[:400])
 
 # line to run the bot
-# client.run("OTQyMjQ0NzI5OTA5ODMzNzU4.YghryQ.Qb1-YGbzTDbgQnNVBqmFHMEv5PM")
 crawl()
